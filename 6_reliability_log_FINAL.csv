@@ -1,0 +1,9 @@
+object,n_observations,cycle,kappa,threshold,passed,action_taken,date
+pathway_overall_nominal_c1_vs_c2,18,2,0.47,0.6,0.0,"After blind pass filled missing coder1 and set code_final authoritative to blind on 6 cells: κ(c1,c2)=0.47 on N=18 (po=0.72). Below 0.6 threshold. Blind pass coded systematically higher than coder2 on 4 cells. QWK=0.71 still substantial on ordinal scale.",2026-09-24
+pathway_overall_quadratic_weighted,18,2,0.71,0.6,1.0,QWK (weak<moderate<strong) = 0.71 on N=18; passes ordinal threshold.,2026-09-24
+pathway_blind_vs_prior_final,6,2,0,0.6,0.0,Blind pass vs prior code_final on 6 cells: κ=0 (agreement 2/6). User chose rule 2: blind-pass authoritative — code_final updated to blind codes.,2026-09-24
+pathway_economic,6,2,0.14,0.6,0.0,κ=0.14 on 6 cells. Lowest pathway reliability; interpret economic codes cautiously.,2026-09-24
+pathway_social,6,2,0.5,0.6,0.0,κ=0.50 on 6 cells; QWK=0.75. Near threshold nominal; substantial ordinal agreement.,2026-09-24
+pathway_environmental,6,2,undefined (zero variance),0.6,,All weak both coders; κ undefined. Raw agreement 100%.,2026-09-24
+igq_nominal,8,1,0.373,0.6,0.0,"Independent dual pass: coder1=prior synthesis, coder2=user blind IGQ coding 2026-09-24. κ=0.373 on N=8. igq_final set to coder2 (investigator independent pass), parallel to pathway rule 2.",2026-09-24
+igq_quadratic_weighted,8,1,0.5,0.6,0.0,QWK on ordered IGQ scale (Low…High) = 0.500.,2026-09-24

@@ -1,0 +1,7 @@
+project,phase,phase_window,econ_code,social_code,env_code,DAC_0_3,DAC_reported_as_set,notes
+PMBP,2,2015-2019,weak,weak,weak,0,"DAC = 0 (Economic: weak, Social: weak, Environmental: weak)",Derived from code_final after blind-pass-authoritative update 2026-09-24.
+PMBP,3,2019-2022,strong,strong,weak,2,"DAC = 2 (Economic: strong, Social: strong, Environmental: weak)",Derived from code_final after blind-pass-authoritative update 2026-09-24.
+PMBP,4,2022-2026,moderate,weak,weak,1,"DAC = 1 (Economic: moderate, Social: weak, Environmental: weak)",Derived from code_final after blind-pass-authoritative update 2026-09-24.
+DMRP,2,2019-2022,strong,moderate,weak,2,"DAC = 2 (Economic: strong, Social: moderate, Environmental: weak)",Derived from code_final after blind-pass-authoritative update 2026-09-24.
+DMRP,3,2022-2024,moderate,moderate,weak,2,"DAC = 2 (Economic: moderate, Social: moderate, Environmental: weak)",Derived from code_final after blind-pass-authoritative update 2026-09-24.
+DMRP,4,2024-2026 (interim),weak,strong,weak,1,"DAC = 1 (Economic: weak, Social: strong, Environmental: weak)",Derived from code_final after blind-pass-authoritative update 2026-09-24.

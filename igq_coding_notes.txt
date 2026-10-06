@@ -1,0 +1,20 @@
+IGQ coding (Dual-coder synthesis from Bangladesh Infrastructure Research Report + corpus)
+Labels: Low / Low-Moderate / Moderate / Moderate-High / High
+igq_numeric_1to5 is a helper scale (1=Very Low .. 5=High), not in original codebook.
+coder1,coder2, avg=final because dual independent coding.
+('PMBP', 1): WB INT 2012: alleged high-level score manipulation in supervision-consultant selection; $1.2bn credit cancelled; ADB/JICA cascade withdrawal. Procurement transparency = Low/Unfavorable. [≈2.0/5]
+
+('PMBP', 2): Sovereign self-financing period; multiple DPP revisions; systemic PEM bottlenecks (DPP delays >1 year, FIDIC weakness) at sector level. Residual governance strain. [≈2.5/5]
+
+('PMBP', 3): Continued cost escalation to final opening; administrative closeout pressures; sector CAG/TIB leakage context (23-40%). No new INT-level finding specific to this phase. [≈2.5/5]
+
+('PMBP', 4): Bridge operational; residual land-compensation irregularities and unimplemented EIA conditions in media. Governance stress shifts to post-completion accountability. [≈3.0/5]
+
+('DMRP', 1): JICA ODA with tied Japanese contractors and external safeguard framework; stronger multilateral oversight than sovereign PMBP. Early alignment disputes; financing stable. [≈3.0/5]
+
+('DMRP', 2): Peak construction disruption; utility shifting, business-loss compensation under JICA RAP; alignment resistance (DU/Kamalapur). External lender oversight present. [≈3.0/5]
+
+('DMRP', 3): First section opened; cost revision + deadline extension in DPP; JICA debt-service intact. Governance relatively more stable than PMBP equivalent phase. [≈3.5/5]
+
+('DMRP', 4): Operational phase; 37-day arson suspension is external political shock rather than procurement failure. Revenue shortfall vs JICA debt service = fiscal stress. [≈3.5/5]
+
